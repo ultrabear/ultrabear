@@ -1,5 +1,5 @@
 # UltraBear (Alex H)
-17 yo HS student  
+18 yo HS student  
 I mainly code in golang and python  
 [ultrabear.xyz](https://ultrabear.xyz)
 ## The projects I work on
