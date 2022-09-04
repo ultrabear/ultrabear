@@ -1,6 +1,6 @@
 # UltraBear (Alex H)
-18 yo HS student  
-I mainly code in golang and python  
+18 yo  
+I mainly code in golang, python, and rust  
 [ultrabear.xyz](https://ultrabear.xyz)
 ## The projects I work on
 - [Sonnet](https://github.com/sonnet-discord/sonnet-py)
